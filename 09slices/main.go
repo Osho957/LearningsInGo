@@ -36,6 +36,12 @@ func main() {
 	fmt.Println(sort.IntsAreSorted(highScores))
 	fmt.Println(highScores)
 
-
+	var courses = []string{"react","js","swift","python","java"}
+	fmt.Println(courses)
+    
+	// removing from slices
+    var idx int = 2;
+	courses = append(courses[:idx], courses[idx+1:]...)
+	fmt.Println(courses)
 	
 }

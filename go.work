@@ -9,4 +9,7 @@ use (
 	./07pointers
 	./08myArray
 	./09slices
+	./10mymaps
+	./11structs
+	./12switchcase
 )
