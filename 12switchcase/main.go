@@ -8,7 +8,7 @@ import (
 
 func main()  {
 
-	fmt.Println("Switch case in golang")
+	fmt.Println("Switch case in Golang")
 
 	rand.Seed(time.Now().UnixNano())
 	diceNumber := rand.Intn(6)+1
@@ -25,4 +25,5 @@ func main()  {
 	default:
 		fmt.Println("Default case: Random number is unexpected")
 	}
+  
 }
