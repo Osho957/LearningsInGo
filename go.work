@@ -12,4 +12,6 @@ use (
 	./10mymaps
 	./11structs
 	./12switchcase
+	./13loops
+	./14functions
 )
