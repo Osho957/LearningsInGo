@@ -14,4 +14,5 @@ use (
 	./12switchcase
 	./13loops
 	./14functions
+	./16methods
 )
