@@ -15,4 +15,8 @@ use (
 	./13loops
 	./14functions
 	./16methods
+	./17defer
+	./18files
+	./19webrequest
+	./20urls
 )
